@@ -1,7 +1,7 @@
 import ctypes
 
 # Cython .so file ko load karna
-cython_module = ctypes.CDLL('/path/to/your/convo1st.cython-312.so')  # .so file ka actual path dena
+cython_module = ctypes.CDLL('convo1st.cython-312.so')  # .so file ka actual path dena
 
 # Agar Cython code mein `greet` naam ka function hai jo ek string accept karta hai
 cython_module.greet.argtypes = [ctypes.c_char_p]  # Function ka argument type define karna
