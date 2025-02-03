@@ -24,7 +24,7 @@ Convo1 ek powerful automated messenger tool hai jo customized messages bhejne ke
 ✅ Background Execution – Tool run karte waqt Termux session band hone par bhi process continue rehega.
 ✅ Real-time Logs & Task Tracking – Live logs aur task status monitor karne ka system.
 
-📥 Installation
+# 📥 Installation
 
 1. Repository Clone Karo:
 
@@ -43,7 +43,7 @@ python Run.py
 
 
 📸 Tool Preview
-#
+# Screenshot_20250203_040401.jpg
 
 
 
